@@ -11,11 +11,11 @@
     "stylelint",
     "prettier"
   ],
-  "description": "Custom template for create-react-app with TypeScript, ESLint (Airbnb style), Stylelint, Prettier and TailwindCSS",
-  "author": "rodrigolira",
+  "description": "All my stuff",
+  "author": "Daniel Marohn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodrigolira/cra-template-typescript-eslint-stylelint-prettier-tailwindcss"
+    "url": "https://github.com/camillo/cra-template-typescript-tailwind"
   },
   "license": "MIT",
   "engines": {
